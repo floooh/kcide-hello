@@ -1,0 +1,13 @@
+{
+    "emulator": {
+        "system":"KC85/4"
+    },
+    "assembler": {
+        "cpu": "Z80",
+        "srcDir": "src",
+        "mainSourceFile": "hello.asm",
+        "outDir": "build",
+        "outBaseFilename": "hello",
+        "outFiletype":"KCC"
+    }
+}
