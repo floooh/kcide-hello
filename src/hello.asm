@@ -3,6 +3,6 @@
 _start:
     call F003h
     db 23h
-    db "Hello World!\n\r"
+    db "HELLO WORLD!\n\r"
     db 0
     ret

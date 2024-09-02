@@ -3,8 +3,8 @@
 0208                    _start:
 0208  CD 03F0               call F003h
 020B  23                    db 23h
-020C  48656C6C 6F20576F     db "Hello World!\n\r"
-0214  726C6421 0A0D
+020C  48454C4C 4F20574F     db "HELLO WORLD!\n\r"
+0214  524C4421 0A0D
 021A  00                    db 0
 021B  C9                    ret
 
